@@ -1,4 +1,4 @@
-cypress.io
+# cypress.io
 
 Apresentação
 
@@ -9,9 +9,9 @@ Caracteristicas:
  * Ferramenta para teste e2e/integração
  * javascript
 
-video do criador do cypress 
-https://www.youtube.com/watch?v=5XQOK0v_YRE
-https://www.youtube.com/watch?v=pJ349YntoIs
+videos do criador do cypress:
+- https://www.youtube.com/watch?v=5XQOK0v_YRE
+- https://www.youtube.com/watch?v=pJ349YntoIs
 
 
 Requesitos minimos
@@ -40,7 +40,7 @@ npm init -y
 ```
 
 
-adicionar cypress localmente com depemdencia de desenvolvimento
+adicionar cypress localmente como depemdencia de desenvolvimento
 
 com yarn
 ```
