@@ -31,6 +31,11 @@ for html/jsx/xml/...
 * `yat` - yank a tag
 * `yit` - yank i tag
 
+learn
+-----
+* :reg[isters]
+* :marks
+* :buffers :ls
 
 tips
 ----
