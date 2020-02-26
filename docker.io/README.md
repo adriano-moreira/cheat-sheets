@@ -1,7 +1,8 @@
 install on Ubuntu 18.04
 
-```
-sudo apt install docker.io
+```sh
+#sudo apt install docker.io
+curl -sSL https://get.docker.com | sudo sh
 sudo usermod -aG docker $USER
 ```
 
