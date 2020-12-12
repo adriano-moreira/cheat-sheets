@@ -31,6 +31,16 @@ for html/jsx/xml/...
 * `yat` - yank a tag
 * `yit` - yank i tag
 
+up/down
+-------
+* gg to first line
+* G  to last line
+* :10 to line 10
+* 10G to line 10
+* 10gg to line 10
+* 50% to line 50% of file 
+
+
 learn
 -----
 * :reg[isters]
