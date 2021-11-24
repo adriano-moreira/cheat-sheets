@@ -56,6 +56,7 @@ panels:
  - `prefix "` split horizontal
  - `prefix x` delete panel
  - `prefix q` show index
+ - `prefix z` zoom/maximize/restore
 
 config
  - `.tmux.conf` file to config tmux
