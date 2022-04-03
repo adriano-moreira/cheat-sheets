@@ -37,7 +37,7 @@ command line:
  - `tmux ls` list sessions
 
 preflix:
- - `CTRL-b` default prefix
+ - `CTRL-b` default prefix, I configure to `CTRL-a`
 
 session:
  - `prefix $` remane session
